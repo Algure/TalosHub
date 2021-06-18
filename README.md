@@ -1,4 +1,4 @@
-# talos_hub
+# TalosHub
 
 AI hub. Powered by Azure cognitive services. The PWA lets you share the custom vision AI models ad chatbots you've built on the Azure platform. So we can chat with your chatbot and check out your computer vision AI. 
 
