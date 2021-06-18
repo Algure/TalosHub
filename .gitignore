@@ -35,7 +35,6 @@
 # Web related
 lib/generated_plugin_registrant.dart
 
-# Auth related
 lib/utitlities/keys.dart
 
 # Symbolication related
