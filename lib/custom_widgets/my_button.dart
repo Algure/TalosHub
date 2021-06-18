@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 
 class MyButton extends StatelessWidget {
   MyButton({required this.buttonColor, required this.text, required this.textColor, required this.onPressed});

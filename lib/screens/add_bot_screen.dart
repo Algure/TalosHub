@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../utitlities/azure_client.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 import 'package:talos_hub/custom_widgets/my_button.dart';
 import 'package:talos_hub/data_objects/ai_object.dart';
 import '../utitlities/utility_functions.dart';

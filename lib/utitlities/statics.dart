@@ -4,7 +4,6 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
-Color kThemeColor= Colors.deepPurpleAccent;
 var kProfileTextStyle = TextStyle(
     color: kThemeColor,
     fontSize: 14
@@ -54,6 +53,7 @@ HashMap<String, int>? kUserColorMap = HashMap();
 
 List<Color> kNameColors=[Colors.green, Colors.purple, Colors.red, Colors.pink, Colors.brown, Colors.deepOrangeAccent,Colors.cyan];
 
+Color kThemeColor= Colors.deepPurpleAccent;
 const kDialogLight = Color(0xFFEFEFFF);
 
 const kNameKey='kNameKey';

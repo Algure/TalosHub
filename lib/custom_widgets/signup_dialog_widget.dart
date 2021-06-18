@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../utitlities/azure_client.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 import 'package:talos_hub/custom_widgets/my_button.dart';
 import 'package:talos_hub/data_objects/profile.dart';
 import 'package:talos_hub/screens/home_screen.dart';

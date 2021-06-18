@@ -3,7 +3,7 @@ import 'dart:collection';
 import 'package:flutter/material.dart';
 import 'package:overlay_support/overlay_support.dart';
 import 'package:provider/provider.dart';
-import 'utitlities/constants.dart';
+import 'utitlities/statics.dart';
 import 'package:talos_hub/providers/chat_upload_provider.dart';
 import 'package:talos_hub/screens/home_screen.dart';
 

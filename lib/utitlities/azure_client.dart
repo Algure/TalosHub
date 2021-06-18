@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'dart:typed_data';
 
 import 'package:http/http.dart';
-import 'constants.dart';
+import 'statics.dart';
 import 'package:talos_hub/data_objects/ai_object.dart';
 import 'package:talos_hub/data_objects/profile.dart';
 import 'keys.dart';

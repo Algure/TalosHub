@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../utitlities/azure_client.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 import 'add_bot_screen.dart';
 import 'package:talos_hub/custom_widgets/ai_list_item.dart';
 import 'package:talos_hub/custom_widgets/change_name_dialog_widget.dart';

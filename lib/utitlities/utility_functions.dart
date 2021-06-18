@@ -3,7 +3,7 @@ import 'package:connectivity/connectivity.dart';
 import 'package:flutter/material.dart';
 import 'package:overlay_support/overlay_support.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'constants.dart';
+import 'statics.dart';
 import 'package:uuid/uuid.dart';
 
 

@@ -3,7 +3,7 @@ import 'dart:collection';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 import 'package:talos_hub/custom_widgets/chat_box.dart';
 import 'package:talos_hub/data_objects/ai_object.dart';
 import 'package:talos_hub/data_objects/message_object.dart';

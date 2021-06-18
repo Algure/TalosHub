@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 import 'package:talos_hub/custom_widgets/chat_box.dart';
 import 'package:talos_hub/data_objects/message_object.dart';
 import 'package:talos_hub/data_objects/profile.dart';

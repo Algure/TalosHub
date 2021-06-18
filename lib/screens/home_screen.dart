@@ -3,7 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../utitlities/azure_client.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 import 'package:talos_hub/custom_widgets/ai_list_item.dart';
 import 'package:talos_hub/custom_widgets/signup_dialog_widget.dart';
 import 'package:talos_hub/data_objects/ai_object.dart';

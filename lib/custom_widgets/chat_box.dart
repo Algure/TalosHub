@@ -7,7 +7,7 @@ import 'package:flutter_linkify/flutter_linkify.dart';
 import 'package:http/http.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 import 'package:talos_hub/data_objects/message_object.dart';
 import 'package:talos_hub/providers/chat_upload_provider.dart';
 import 'package:url_launcher/url_launcher.dart';

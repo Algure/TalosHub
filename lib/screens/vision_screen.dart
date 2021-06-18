@@ -13,7 +13,7 @@ import 'package:talos_hub/custom_widgets/detection_box_renderer.dart';
 import 'package:talos_hub/custom_widgets/my_button.dart';
 import 'package:talos_hub/data_objects/ai_object.dart';
 import 'package:talos_hub/utitlities/azure_client.dart';
-import 'package:talos_hub/utitlities/constants.dart';
+import 'package:talos_hub/utitlities/statics.dart';
 import 'package:talos_hub/utitlities/utility_functions.dart';
 
 class VisionScreen extends StatefulWidget {

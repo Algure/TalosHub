@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:talos_hub/screens/vision_screen.dart';
-import '../utitlities/constants.dart';
+import '../utitlities/statics.dart';
 import 'package:talos_hub/data_objects/ai_object.dart';
 import 'package:talos_hub/screens/chat_screen.dart';
 
