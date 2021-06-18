@@ -32,10 +32,12 @@
 /build/
 
 
+# My ignored files
+lib/utitlities/keys.dart
+
 # Web related
 lib/generated_plugin_registrant.dart
 
-lib/utitlities/keys.dart
 
 # Symbolication related
 app.*.symbols
