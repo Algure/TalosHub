@@ -2,7 +2,7 @@
 
 AI hub. Powered by Azure cognitive services. This PWA lets you share the custom vision AI models and chatbots you've built with the Azure platform. 
 
-Usage is very intuitive: https://algure.github.io/RoboHub/
+App is now LIVE @ https://algure.github.io/RoboHub/ (Usage is very intuitive)
 
 ## Uploading Your Model
 
